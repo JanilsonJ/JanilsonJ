@@ -7,6 +7,13 @@
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janilsonj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## Linguagens <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="20px"/>
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
 ## Social Links <img src="https://media.giphy.com/media/mJ1LX56W9nG2FpZZ4F/giphy.gif" width="30px"/>
  
 <div> 

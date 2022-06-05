@@ -1,4 +1,4 @@
-### Olá, me chamo Janilson Júnior e seja vindo ao meu perfil! 🖖>
+### Olá, me chamo Janilson Júnior e seja vindo ao meu perfil! 🖖
 
 - 💡 Atualmente estudando e aperfeiçoando conhecimentos de HTML, CSS e JavaScript.
 

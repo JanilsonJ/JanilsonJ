@@ -14,8 +14,14 @@
   </a>
 </p>
   
-## Social Links 👀
+## Social 👀
  
 <div> 
-  <a href="https://www.linkedin.com/in/janilson-junior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/janilson-junior/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+   
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/669247" target="_blank" >
+    <img height="30em" width="120em" src= "https://camo.githubusercontent.com/ba5e98a649a337fb3e9592310ef605262750ff7940c14cef6f20e30f56c14b1a/68747470733a2f2f7777772e62656563726f77642e636f6d2e62722f686f6d652f77702d636f6e74656e742f75706c6f6164732f323032312f30382f62656563726f77645f5f6e6567617469766f486f722d76617a61646f2d736d616c6c2d504e472d31303234783234362e706e67" >
+  </a> 
 </div>

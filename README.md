@@ -1,4 +1,4 @@
-### Olá, me chamo Janilson Júnior e seja vindo ao meu perfil! 🖖
+### Olá, me chamo Janilson Júnior e seja bem vindo ao meu perfil! 🖖
 
 <p> 
   - 💡 Tenho 24 anos, graduado em Ciência da Computação e recém apaixonado por desenvolvimento web em Front e Back End. Atualmente aperfeiçoando conhecimentos em Back End.

@@ -1,9 +1,5 @@
 ### Olá, me chamo Janilson Júnior e seja bem vindo ao meu perfil! 🖖
 
-<p> 
-  - 💡 Tenho 24 anos, graduado em Ciência da Computação e recém apaixonado por desenvolvimento web em Front e Back End. Atualmente aperfeiçoando conhecimentos em Back End.
-</p>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janilsonj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janilsonj&layout=compact&langs_count=7&theme=dracula"/>
